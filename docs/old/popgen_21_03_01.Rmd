@@ -564,7 +564,7 @@ abline( h=1, col="gray10", lty=5)
 
 --
 
-Deleterious mutations with $-0.3 < N_{e}s < 0.0$ are fixed at rates at least half as great as that for neutral alleles.  
+Deleterious mutations with $-0.3 > N_{e}s < 0.0$ are fixed at rates at least half as great as that for neutral alleles.  
 
 
 ---
