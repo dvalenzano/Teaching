@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Problems
 
-Let's assume a Wright-Fisher model for a population of diploid individuals. 
+Let's assume a Wright-Fisher model for a population of diploid individuals.  
 1.1) What is the probability that a new mutation will be transmitted to the next generation when the population has size 2 million and 3 million individuals?  
 1.2) Please provide the answer for either scenario and explain your answer.  
 
