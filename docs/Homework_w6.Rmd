@@ -1,0 +1,20 @@
+---
+title: "Population Genetics and Molecular Evolution, Week 6: Homework  Dario Riccardo Valenzano (2021)"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Problems
+
+Let's assume a Wright-Fisher model for a population of diploid individuals. 
+1.1) What is the probability that a new mutation will be transmitted to the next generation when the population has size 2 million and 3 million individuals?  
+1.2) Please provide the answer for either scenario and explain your answer.  
+
+2.1) What is the probability that a new mutation will fix solely due to drift?  
+2.2) A new mutation has a fixation probability of $0.1 \cdot N$. How do you interpret this value? What can you tell about its fitness effect (e.g., beneficial, neutral or detrimental)?  
+2.3) Under what circumstances can a new mutation have a *relative* fixation probability $\theta_{f}$ very close to $1$ (both from the left and from the right)?  
+  
+3.1) Why do mutations in genes expressed in late life have higher chances to accumulate neutral and nearly neutral variants compared to genes expressed early in life?
